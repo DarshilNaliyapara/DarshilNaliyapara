@@ -129,7 +129,7 @@
 | :--- | :---: | :--- |
 | **[AI Resume Analyzer](https://resumalyze.vercel.app)** | Django · Gemini · Next.js | SaaS — AI-powered resume ↔ JD analysis with subscription billing |
 | **Odoo Production Modules** | Python · Odoo ORM · XML | 5 modules shipped into production at Odoo Inc. |
-| **[ShilyScape](https://shilyscape.vercel.app)** | MERN | Full-stack wallpaper satter webapp with robust backend architecture |
+| **[ShilyScape](https://shilyscape.vercel.app)** | Typescript · Next.js · Postgresql | Full-stack wallpaper satter webapp with robust backend architecture |
 
 </div>
 
