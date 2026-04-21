@@ -60,14 +60,14 @@
 
 <br/>
 
-**<img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="20"> &nbsp; Odoo Inc., Gandhinagar** &emsp; `Software Development Intern`
+**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="22"> &nbsp; Odoo Inc., Gandhinagar** &emsp; `Software Development Intern`
 
 - Built & deployed **5 production Odoo modules** using Python ORM, XML views, and custom business logic
 - Conducted comprehensive testing via `unittest` and `pytest` for robust zero-downtime deployments
 
 <br/>
 
-**<img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="20"> &nbsp; eHeuristic Solutions, Rajkot** &emsp; `Web Dev Intern`
+**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="22"> &nbsp; eHeuristic Solutions, Rajkot** &emsp; `Web Dev Intern`
 
 - Developed dynamic web applications using **Laravel** and **JavaScript**
 
