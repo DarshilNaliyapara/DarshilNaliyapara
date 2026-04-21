@@ -79,8 +79,6 @@
 ### ⚡ Fun Facts
 
 - Daily driver: **Arch Linux + Hyprland/Wayland** (yes, I use Arch btw)
-- Self-host passive income stack on Raspberry Pi via Docker
-- Built production Odoo modules before graduating
 
 ---
 
