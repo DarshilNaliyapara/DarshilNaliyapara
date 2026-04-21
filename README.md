@@ -84,5 +84,5 @@
 ---
 
 <p align="center">
-  <i>Open to backend / Python / Django roles · Gujarat, India</i>
+  <i>Open to backend / Python / software development roles · Gujarat, India</i>
 </p>
