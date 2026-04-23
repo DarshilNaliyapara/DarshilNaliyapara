@@ -9,7 +9,7 @@
 <a href="https://linkedin.com/in/darshilnaliyapara">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://darshilnaliyapara.github.io/DarshilNaliyapara/">
+<a href="https://darshilnaliyapara.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="mailto:darshil1557@gmail.com">
